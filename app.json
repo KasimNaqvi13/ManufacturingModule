@@ -1,0 +1,34 @@
+{
+  "id": "c4680852-6a37-4b42-8e1c-e54bf644af7d",
+  "name": "Manufacturing Module",
+  "publisher": "Default Publisher",
+  "version": "1.0.0.1",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "25.0.0.0",
+  "application": "25.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 60100
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false,
+    "applyToDevExtension": false
+  },
+  "runtime": "14.2",
+  "propagateDependencies": true,
+  "features": [
+    "NoImplicitWith"
+  ]
+}
